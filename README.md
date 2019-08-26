@@ -17,6 +17,7 @@ Telemarketers	make	an	average	of	300-500	calls	in	an	eight-hour	day
 -  We	can	reduce	the	number	of	calls	by	calling	only	the	ones	 that	are	likely	to	subscribe
 - This	means	less	calls	for	the	 telemarketer,	and	less	annoying	calls	for	the	people	who	might	not	be	interested	– a	win	win	situation	 that	saves	money	and	time	for	everyone	involved
 
+## Results
 | | Actual (test dataset) | Logistic Regression | k-Neighbors Classifer |
 | --- | ---| --- | ---|
 | **Total calls made** | 7622 | 1801 | 416 |
