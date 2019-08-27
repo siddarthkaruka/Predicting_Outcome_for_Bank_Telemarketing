@@ -40,4 +40,5 @@ Telemarketers	make	an	average	of	300-500	calls	in	an	eight-hour	day
 - An	appropriate	 response	 for	the	 first	two	questions	 might	require	a	Logistic	
 Regression	 model,	where	as	a	focus	on	saving	money/time/image	 based	on	the	
 answers	 to	the	last	 three	questions	 would	require	a	k-neighbors	classifier	 model
+- Another possibility is to use k-neighbors classifier first where the probability of success is the highest, cover those customers and then move down the list to predictions from logistic regression 
 
